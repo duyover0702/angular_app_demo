@@ -1,0 +1,13 @@
+.example-card {
+    max-width: 300px;
+    border: 1px solid #b1154a;
+    position: right;
+}
+
+.example-header-image {
+  background-image: url('https://c8.alamy.com/comp/KCXR8Y/portrait-of-santa-claus-christmas-avatar-KCXR8Y.jpg');
+  background-size: cover;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
